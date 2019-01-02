@@ -1,3 +1,5 @@
+// +build all travis
+
 package database
 
 import (
